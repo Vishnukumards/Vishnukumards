@@ -74,5 +74,3 @@
 * 🕹️ Gamer in Free Time
 
 ---
-
-Would you like a version of this README with markdown badges and profile stats included as well?
