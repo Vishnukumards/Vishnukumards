@@ -1,4 +1,5 @@
-# Hi, I'm Vishnu Kumar D S 👋
+# Hi, I'm Vishnu Kumar D S 👋       
+<div align="right"> <a href="https://github.com/Vishnukumards/Vishnukumards/edit/main/README.md">Portfolio</a> • <a href="mailto:vishnukumardsvishnu@gmail.com">Email</a> • <a href="https://github.com/Vishnukumards/">GitHub</a> • <a href="https://medium.com/@vishnukumardsvishnu_99381">Medium</a> </div>
 
 **AI/ML Engineer | Data Scientist | MLOps Enthusiast**
 
@@ -33,13 +34,6 @@ I'm passionate about building intelligent systems from concept to deployment. My
 - KPMG Data Analytics Virtual Internship
 - Skill India AI DevOps Engineer
 - Data Science Masters Pwskills
-
-## 📫 Let's Connect
-- [Portfolio]()
-- [LinkedIn](Your-LinkedIn-URL)
-- [Email](mailto:your-email@domain.com)
-- [Medium]()
-- [Github]()
 
 ---
 ⭐️ *From [VishnuKumarDS](https://github.com/YourUsername)*
