@@ -1,3 +1,38 @@
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" /> Vishnu Kumar D S
+
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Data Scientist | AI Engineer | ML Practitioner
+"""
+
+class DataScientist:
+    def __init__(self):
+        self.name = "Vishnu Kumar D S"
+        self.role = "Data Scientist & AI Engineer"
+        self.skills = {
+            'programming': ['Python', 'SQL', 'R'],
+            'ml_frameworks': ['Scikit-learn', 'TensorFlow', 'PyTorch', 'XGBoost'],
+            'deep_learning': ['CNN', 'RNN', 'LSTM', 'Transformers', 'GAN'],
+            'computer_vision': ['OpenCV', 'YOLO', 'ResNet', 'Image Segmentation'],
+            'nlp': ['NLTK', 'SpaCy', 'HuggingFace', 'BERT', 'GPT-2'],
+            'mlops': ['Docker', 'Kubernetes', 'Jenkins', 'AWS', 'Azure'],
+            'visualization': ['Power BI', 'Tableau', 'Matplotlib', 'Seaborn'],
+            'tools': ['Git', 'Jupyter', 'VS Code', 'Power BI']
+        }
+        self.contact = {
+            'email': 'your.email@domain.com',
+            'linkedin': 'linkedin.com/in/yourprofile',
+            'github': 'github.com/yourusername'
+        }
+    
+    def __str__(self):
+        return f"{self.name} | {self.role}"
+
+me = DataScientist()
+print(me)
+````
 # 👋 Hi there, I'm Vishnu Kumar D S
 
 🎓 **Aspiring Data Scientist** currently pursuing a Data Science Master's from **PW Skills**, with hands-on experience in machine learning, NLP, and deep learning projects.
