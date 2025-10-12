@@ -1,111 +1,45 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" /> Vishnu Kumar D S
+# Hi, I'm Vishnu Kumar D S 👋
 
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Data Scientist | AI Engineer | ML Practitioner
-"""
+**AI/ML Engineer | Data Scientist | MLOps Enthusiast**
 
-class DataScientist:
-    def __init__(self):
-        self.name = "Vishnu Kumar D S"
-        self.role = "Data Scientist & AI Engineer"
-        self.skills = {
-            'programming': ['Python', 'SQL', 'R'],
-            'ml_frameworks': ['Scikit-learn', 'TensorFlow', 'PyTorch', 'XGBoost'],
-            'deep_learning': ['CNN', 'RNN', 'LSTM', 'Transformers', 'GAN'],
-            'computer_vision': ['OpenCV', 'YOLO', 'ResNet', 'Image Segmentation'],
-            'nlp': ['NLTK', 'SpaCy', 'HuggingFace', 'BERT', 'GPT-2'],
-            'mlops': ['Docker', 'Kubernetes', 'Jenkins', 'AWS', 'Azure'],
-            'visualization': ['Power BI', 'Tableau', 'Matplotlib', 'Seaborn'],
-            'tools': ['Git', 'Jupyter', 'VS Code', 'Power BI']
-        }
-        self.contact = {
-            'email': 'your.email@domain.com',
-            'linkedin': 'linkedin.com/in/yourprofile',
-            'github': 'github.com/yourusername'
-        }
-    
-    def __str__(self):
-        return f"{self.name} | {self.role}"
+I'm passionate about building intelligent systems from concept to deployment. My expertise lies in designing machine learning models, particularly in Deep Learning (CNN, RNN, Transformers) and Computer Vision, and operationalizing them using robust MLOps practices with Docker and Kubernetes.
 
-me = DataScientist()
-print(me)
-````
-# 👋 Hi there, I'm Vishnu Kumar D S
+## 🚀 What I Do
+- **Machine Learning & Deep Learning:** End-to-end model development for Classification, Regression, and Time-Series Forecasting.
+- **Computer Vision:** Object Detection, Image Segmentation, and Recognition systems using YOLO and CNNs.
+- **Natural Language Processing (NLP):** Text Summarization, Named Entity Recognition (NER) using Transformer models.
+- **MLOps & DevOps:** Containerizing applications with Docker, orchestrating with Kubernetes, and building CI/CD pipelines.
+- **Data Analytics:** Transforming raw data into actionable insights with Python, SQL, and Power BI/Tableau.
 
-🎓 **Aspiring Data Scientist** currently pursuing a Data Science Master's from **PW Skills**, with hands-on experience in machine learning, NLP, and deep learning projects.
+## 💼 Highlighted Projects
 
----
+| Project | Domain | Key Technologies |
+| :--- | :--- | :--- |
+| **[PEFT Text Summarization](link-to-github-repo)** | NLP | Hugging Face, Transformers, PEFT |
+| **[Loan Approval Classifier](link-to-github-repo)** | Finance | Scikit-learn, XGBoost, Feature Engineering |
+| **[Object Tracking with YOLO](link-to-github-repo)** | Computer Vision | OpenCV, YOLO, DeepSORT |
+| **[Multi-Cloud K8s Deployment](link-to-github-repo)** | MLOps/DevOps | Docker, Kubernetes, AWS, Azure |
+| **[Bike Sharing Demand Prediction](link-to-github-repo)** | Time-Series | Random Forest, EDA, Python |
 
-## 🔍 About Me
+## 📊 Tech Stack
+**Languages:** Python, SQL, R
+**ML/DL Frameworks:** TensorFlow, PyTorch, Scikit-learn, OpenCV
+**MLOps & Cloud:** Docker, Kubernetes, Jenkins, AWS, Azure, Git
+**Data Tools:** Pandas, NumPy, Power BI, Tableau, Spark
 
-* 🎯 Passionate about **Data Science**, **Machine Learning**, and **AI**
-* 📊 Experienced in **Data Analytics**, **Predictive Modeling**, and **Visualization**
-* 💻 Strong programming skills in **Python**, **SQL**, and **TensorFlow**
-* 🌱 Currently building projects in healthcare analytics and financial forecasting
-* 👨‍💻 Looking to collaborate on **AI/ML projects**, especially involving real-world datasets
+## 📜 Certifications
+- IBM Machine Learning with Python
+- WorldQuant University Applied Data Science
+- KPMG Data Analytics Virtual Internship
+- Skill India AI DevOps Engineer
+- Data Science Masters Pwskills
+
+## 📫 Let's Connect
+- [Portfolio]()
+- [LinkedIn](Your-LinkedIn-URL)
+- [Email](mailto:your-email@domain.com)
+- [Medium]()
+- [Github]()
 
 ---
-
-## 📌 Projects & Internships
-
-### 🏥 HealthCare Prediction (EY GDS – AICTE Internship)
-
-* Built a predictive model for diabetic patient outcomes using Python and ML.
-
-### 📈 Stock Prediction (Bharat Intern)
-
-* Developed an LSTM model using TensorFlow to forecast Apple stock prices.
-
-### 🕵️ Terrorism Data EDA (The Spark Foundation)
-
-* Conducted in-depth analysis to reveal patterns in terrorism data globally.
-
-### 📊 Data Analytics Intern @ UptoSkills
-
-* Scraped data, built Power BI dashboards, and mentored peers.
-
-### 📚 Advanced Data Analytics (Edunet Foundation – AICTE)
-
-* Explored healthcare prediction, DevOps workflows, and GitHub codebase management.
-
----
-
-## 🛠️ Skills
-
-* **Languages**: Python, SQL
-* **Libraries/Tools**: Pandas, NumPy, TensorFlow, Scikit-learn, Matplotlib, Seaborn
-* **Other**: Power BI, Jupyter Notebook, GitHub, DevOps basics
-* **Soft Skills**: Problem Solving, Team Leadership, Project Management
-
----
-
-## 🏆 Achievements & Certifications
-
-* 🏅 Applied Data Science I – *WorldQuant University*
-* 🎓 Data Science Masters – *PW Skills*
-* 📜 Diploma in Python with ML – *Udemy*
-* 📊 EDA with Python – *Project Certification*
-* 🤖 Machine Learning with Python – *IBM Cognitive Class*
-
----
-
-## 📬 Contact Me
-
-* 📧 vishnukumardsvishnu@gmail.com
-* 🔗 [LinkedIn]- https://www.linkedin.com/in/vishnukumar-ds
-* 💻 [GitHub]- https://github.com/VishnukumarWDS
-* 📍 Bangalore, India
-
----
-
-## 😄 Fun Facts
-
-* 🎥 Movie Enthusiast
-* 📚 Love Reading Tech Books
-* 🏏 Cricket Fan
-* 🕹️ Gamer in Free Time
-
----
+⭐️ *From [VishnuKumarDS](https://github.com/YourUsername)*
