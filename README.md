@@ -1,7 +1,7 @@
 # Hi, I'm Vishnu Kumar D S 👋
 
 <div align="right">
-  <a href="https://your-portfolio-link">Portfolio</a> • 
+  <a href="https://vishnukumards.github.io/">Portfolio</a> • 
   <a href="mailto:vishnukumardsvishnu@gmail.com">Email</a> • 
   <a href="https://www.linkedin.com/in/vishnukumar-ds/">Linkedin</a> • 
   <a href="https://github.com/Vishnukumards/">GitHub</a> • 
